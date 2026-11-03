@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá, eu sou a Luiza 👋
 
-<!--
-**dacostaluiza/dacostaluiza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Estudante de Engenharia da Computação** na Estácio — Brasil.
 
-Here are some ideas to get you started:
+Desenvolvo para a web e estou construindo um projeto próprio do zero.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projeto em construção
+
+### Gabaru
+Website em construção ativa, desenvolvido em TypeScript. É o meu projeto principal no momento — toda a evolução dele está no repositório `gabaru`.
+
+## 🛠️ Tecnologias
+TypeScript · Next.js · React · Tailwind CSS · Firebase
+
+## 📌 Atualmente
+- 🎓 Engenharia da Computação — @estacio
+- 🔨 Construindo o **Gabaru**
+- 🌱 Aprofundando desenvolvimento web
+
+---
+💻 github.com/dacostaluiza
